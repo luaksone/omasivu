@@ -57,7 +57,7 @@ nav:hover {
   }
 /* Header styles */
 header {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgb(247, 247, 247)), url(images/header3.png);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgb(247, 247, 247, 1)), url(images/header3.jpg);
     background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
