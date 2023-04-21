@@ -57,10 +57,10 @@ nav:hover {
   }
 /* Header styles */
 header {
-    background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgb(247, 247, 247, 1)), url(images/header3.jpg);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 1)), url(./../images/header3.jpg);
     background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100%;
     padding: 50px 0;
     text-align: center;
